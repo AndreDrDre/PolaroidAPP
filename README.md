@@ -1,7 +1,7 @@
 # PolaroidAPP
 Fun, simple and intuitive Polaroid Type application designed to capture your special memories and display them as a Polaroid Camera would!
 
-There is no setup required. Just run and start using! The application is developed using c# and Xamarin Studio. 
+There is no setup required. Download,Unzip and run visual studios. The application is developed using c# and Xamarin Studio for Mac. 
 
 Further Notes:
 ________________
