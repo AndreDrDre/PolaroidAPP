@@ -8,7 +8,7 @@ There is no setup required. Download,Unzip and run visual studios. The applicati
 
 ## Images
 
-![](https://github.com/AndreDrDre/Xamarin.FuelSlip/blob/master/Project/FuelSlip.png)
+![]()
 
 ## Supported Platforms
 - iOS
