@@ -1,18 +1,28 @@
 # PolaroidAPP
+
 Fun, simple and intuitive Polaroid Type application designed to capture your special memories and display them as a Polaroid Camera would!
 
-There is no setup required. Download,Unzip and run visual studios. The application is developed using c# and Xamarin Studio for Mac. 
+## Setup
 
-Further Notes:
-________________
+There is no setup required. Download,Unzip and run visual studios. The application is developed using c# and Xamarin Studio for Mac.
 
-The Camera Button will not work on the ios simulator and needs to be deployed to a physical device.
-I have added music media which you may turn of if you dont like. I hope you enjoy and capture alot of special Polaroid Memories!
+## Images
 
-Reference Libraries : 
+![](https://github.com/AndreDrDre/Xamarin.FuelSlip/blob/master/Project/FuelSlip.png)
 
-CarouselView.FormsPlugin -> https://github.com/alexrainman/CarouselView
-sqlite-net-pcl -> https://github.com/praeclarum/sqlite-net
-Xam.Plugin.Media -> https://github.com/jamesmontemagno/MediaPlugin
-Xam.Plugin.SimpleAudioPlayer -> https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer
+## Supported Platforms
+- iOS
+- Android
+- UWP (partial)
+
+## Included Projects
+
+- [x] Local SQlite DB
+- [ ] Consumption of Restful Services 
+- [ ] API
+- [ ] SQl Server DB
+
+## Created By: Andre Stemmett
+
+•	Linkedin : https://www.linkedin.com/in/andre-stemmett-543561195/
 
